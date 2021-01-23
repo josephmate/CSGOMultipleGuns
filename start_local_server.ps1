@@ -1,0 +1,1 @@
+C:\Users\Joseph\Desktop\steamcmd\cs_go\srcds.exe -game csgo -console -usercon +game_type 3 +game_mode 0 +map dz_blacksite
